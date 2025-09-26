@@ -9,7 +9,7 @@
 
 **A modern, animated financial dashboard for exploring 5,000+ Indian mutual funds with advanced analytics, glassmorphism design, and comprehensive investment calculators.**
 
-[Live Demo](https://mutual-fund-explorer.vercel.app) • [Documentation](#documentation) • [Features](#-features) • [Screenshots](#-screenshots)
+[Live Demo](https://mutual-fund-explorer-nexjs.vercel.app/) 
 
 </div>
 
